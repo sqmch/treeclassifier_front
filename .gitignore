@@ -1,8 +1,5 @@
 .DS_Store
 node_modules
-treeclf/
-/dist
-
 # local env files
 .env.local
 .env.*.local
