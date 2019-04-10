@@ -125,7 +125,7 @@ export default {
 };
 </script>
 
-<style scoped lang="scss">
+<style lang="scss">
 .md-layout-item {
   &:after {
     width: 100%;
