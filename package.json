@@ -11,7 +11,11 @@
     "axios": "^0.18.0",
     "vue": "^2.6.6",
     "vue-material": "^1.0.0-beta-10.2",
-    "vue-visible": "^1.0.2"
+    "vue-visible": "^1.0.2",
+    "node-sass": "^4.11.0",
+    "sass-loader": "^7.1.0",
+    "style-loader": "^0.23.1",
+    "vue-template-compiler": "^2.5.21"
   },
   "devDependencies": {
     "@vue/cli-plugin-babel": "^3.5.0",
