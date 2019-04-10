@@ -141,7 +141,7 @@ export default {
   }
 };
 </script>
-<style lang="scss">
+<style scoped lang="scss">
 .treeTable {
   height: 350px;
   width: 100%;
