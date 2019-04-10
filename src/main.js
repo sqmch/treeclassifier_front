@@ -3,7 +3,7 @@ import App from "./App.vue";
 import VueMaterial from "vue-material";
 import VueVisible from "vue-visible";
 
-import("vue-material/dist/vue-material.min.css")
+import "vue-material/dist/vue-material.min.css"
 
 
 //Vue.config.productionTip = false;
