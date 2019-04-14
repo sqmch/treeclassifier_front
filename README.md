@@ -1,29 +1,9 @@
 # treeclf_vuetify
 
-## Project setup
-```
-npm install
-```
+## Tree Classifier
 
-### Compiles and hot-reloads for development
-```
-npm run serve
-```
+### Front-end for Tree Classifier app
 
-### Compiles and minifies for production
-```
-npm run build
-```
+#### Demo: https://treeclassifier.netlify.com/
 
-### Run your tests
-```
-npm run test
-```
 
-### Lints and fixes files
-```
-npm run lint
-```
-
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
