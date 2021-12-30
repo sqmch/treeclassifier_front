@@ -190,5 +190,6 @@ export default {
 }
 .preview {
   text-align: center;
+  margin: auto;
 }
 </style>
