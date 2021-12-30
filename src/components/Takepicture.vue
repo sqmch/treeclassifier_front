@@ -192,4 +192,8 @@ export default {
   text-align: center;
   margin: auto;
 }
+.inputdiv {
+  text-align: center;
+  margin: auto;
+}
 </style>
