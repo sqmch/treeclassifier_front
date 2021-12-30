@@ -136,7 +136,7 @@ export default {
 .emptystate {
   width: 300px;
   height: 300px;
-  margin: 10px;
+  margin: auto;
   position: relative;
   overflow: hidden;
 }
