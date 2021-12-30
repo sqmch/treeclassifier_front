@@ -188,4 +188,7 @@ export default {
   overflow: auto;
   margin-top: 5px;
 }
+.preview {
+  text-align: center;
+}
 </style>
